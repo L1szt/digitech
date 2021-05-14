@@ -161,7 +161,7 @@ end_sum:
 	lw $s3, 0($sp) # restore the last saved arr[i] from the stack
 	lw $ra, 4($sp) # restore the line in code we have to jump to from the stack 
 	addi $sp, $sp, 8  # move stack pointer up 
-	jr $ra  # jump to proceeding function call
+	jr $ra  # jump to preceeding function call
 	
 	
 	
