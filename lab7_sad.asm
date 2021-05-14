@@ -1,11 +1,7 @@
 #
 # Sum of Absolute Differences Algorithm
 #
-# Authors: 
-#	X Y, Z Q 
-#
-# Group: ...
-#
+
 
 .text
 
